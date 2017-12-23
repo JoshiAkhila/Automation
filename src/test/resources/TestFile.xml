@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testing fb" >
+	<test name = "fblogin_test" >
+ 		<packages>
+			<package name ="co.test.fblogin.fb"/>	
+		</packages>
+	</test>
+</suite>
